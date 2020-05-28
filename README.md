@@ -12,6 +12,10 @@ http://demo.st-marron.info/roulette/sample/demo.html
 To use the Apex Version of the program:
 
 1) Download the repository and unzip it.
+    
+    a) Master Branch = All weapons (including Care Package Weapons are in the wheel)
+    
+    b) NoCarePackageWeps Branch = All weapons except Care Package Weapons
 
 2) In the unzipped folder go to the Apex Folder.
 
